@@ -27,5 +27,6 @@
     "postcss": "^8.4.21",
     "tailwindcss": "^3.3.1",
     "vite": "^4.2.0"
-  }
+  },
+  "homepage": "https://maibach22.github.io/threejs-shirt-configuration/"
 }
